@@ -1,4 +1,4 @@
-# splunk-sysmonconfig
+# splunk-config
 My modified splunk input configuration for ingesting logs
 
 - PowerShell
