@@ -1,2 +1,14 @@
 # splunk-sysmonconfig
-This is spunk sysmon input config for ingesting logs to a Splunk Interface
+My modified splunk input configuration for ingesting logs
+
+- PowerShell
+- Sysmon
+- Security
+- Registry
+- SSH
+- RDP
+- KMS
+
+and more
+
+
